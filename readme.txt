@@ -1,3 +1,1 @@
-First line.
-Second line.
-Third line.
+This is just the beginning of my coding career

@@ -1,1 +1,1 @@
-This is just the beginning of my coding career
+I learn daily
